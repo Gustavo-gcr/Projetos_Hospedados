@@ -32,7 +32,8 @@ Um desafio técnico focado em *networking* e baixa latência. "Impostor" é um j
 ## 📅 LuLash System
 > **SaaS (ERP/CRM) para Gestão de Negócios de Beleza**
 
-<img width="688" height="405" alt="Captura de tela 2025-11-26 130034" src="https://github.com/user-attachments/assets/5bd448aa-d4e8-4d8c-ac06-0c630af44022" />
+<img width="1349" height="618" alt="Captura de tela 2025-11-26 130214" src="https://github.com/user-attachments/assets/ebdac36b-6419-4f73-aa8a-3f121a55144d" />
+
 
 Solução comercial desenvolvida para resolver dores reais de agendamento e gestão financeira de profissionais autônomos. O foco aqui foi UX (Experiência do Usuário) e consistência de dados.
 * **Painel de Controle Intuitivo:** Dashboard dinâmico que renderiza a agenda do dia/semana, permitindo visualização rápida de "buracos" na agenda e otimização do tempo.
